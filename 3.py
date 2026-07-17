@@ -1,0 +1,6 @@
+name=input("Enter a name of student :")
+age=input("Enter a age of student  :")
+department=input("Enter a department of student :")
+print("The name of student is",name)
+print("The age of student is",age)
+print("The department of student is ",department)
