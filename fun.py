@@ -38,7 +38,7 @@ def calculate_calories(carbs,facts,proteins):
     c=carbs*4
     d=facts*9
     f=proteins*4
-    print("The carbs contain ", c ,"calories")
+    print("The carbs contain  ", c ,"calories")
     print("The Facts contain ", d ,"calories")
     print("The Protein contain ", c,"calories")
     print("The total calories intake :",c+d+f)
