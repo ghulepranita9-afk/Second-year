@@ -3,7 +3,7 @@ string1=input("Enter a codede message")
 print(string in string1)
 
  
-#sum of no 
+#sum of No
 sum=1
 k=int(input("enter a no"))
 for i in range(1, k+1):
