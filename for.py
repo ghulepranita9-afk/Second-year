@@ -1,4 +1,4 @@
-'''a=int(input("Enter a no for a Table:"))
+a=int(input("Enter a no for a Table:"))
 k=int(input("Enter a no till where you want a table:"))
 i=1
 #print a table
@@ -64,7 +64,7 @@ a=6
 for i in  range(1,a+1):
     for j in range(1,i):
       print(j, end="")
-    print()'''
+    print()
 
 
 
